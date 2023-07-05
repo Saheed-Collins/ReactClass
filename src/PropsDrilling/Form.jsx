@@ -28,6 +28,7 @@ const Form = () => {
              <SmallTExt text='all fields are required'className={'fw-light'}/>
 
              <button className='btn btn-success'>Submit</button>
+             <button className='btn btn-success'>Submit</button>
         </form>
       </div>
     </div>
