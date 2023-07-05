@@ -1,0 +1,23 @@
+img{
+    width: 200px;
+}
+
+.myNavbar {
+    background-color: #408E10;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.headerLists{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    
+}
+.headerLists:hover {
+    cursor: pointer;
+    background-color: white;
+    color: #408E10;
+}
